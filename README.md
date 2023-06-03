@@ -1,8 +1,7 @@
 # Jogo da Velha
 
 Testado no windows e ubunto com:
-GCC 11.3.0
-G++ 11.3.0
+GCC 11.3.0 e G++ 11.3.0
 
 
 Como utilizar:
