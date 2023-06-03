@@ -5,7 +5,7 @@ GCC 11.3.0
 G++ 11.3.0
 
 
-##Como utilizar
+Como utilizar:
 
 1. Para sair da tela inicial, pressione qualquer tecla
 2. Na tela de jogo, para movimentar o cursor, utilize as setas do teclado
