@@ -1,0 +1,17 @@
+colocar licenca do codigo
+
+https://stackoverflow.com/questions/1022957/getting-terminal-width-in-c
+
+https://stackoverflow.com/questions/2347770/how-do-you-clear-the-console-screen-in-c
+
+https://stackoverflow.com/questions/7684359/how-to-use-nanosleep-in-c-what-are-tim-tv-sec-and-tim-tv-nsec
+
+https://pt.m.wikipedia.org/wiki/Ficheiro:ASCII-Table-wide.svg
+
+https://stackoverflow.com/questions/19875136/continuous-keyboard-input-in-c
+
+https://cboard.cprogramming.com/c-programming/63166-kbhit-linux.html
+
+https://patorjk.com/software/taag/#p=display&f=Big&t=Jogo%20da%20Velha
+
+https://stackoverflow.com/questions/23369503/get-size-of-terminal-window-rows-columns
