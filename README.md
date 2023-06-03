@@ -1,6 +1,6 @@
 # Jogo da Velha
 
-Testado no windows e ubunto com:
+Testado no windows e ubuntu com:
 GCC 11.3.0 e G++ 11.3.0
 
 
